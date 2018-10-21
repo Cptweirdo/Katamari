@@ -1,0 +1,36 @@
+ (0,0): Unity incremental compiler server
+ (0,0): watchdog active on pid: 15640
+ (0,0): [10-21-2018 06:38:59.496 PM] Unity.PackageManagerUI.Editor.dll: no prior compilation found in cache
+ (0,0): [10-21-2018 06:38:59.512 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10-21-2018 06:38:59.531 PM] Unity.TextMeshPro.dll: no prior compilation found in cache
+ (0,0): [10-21-2018 06:38:59.542 PM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10-21-2018 06:38:59.671 PM] UnityEditor.StandardEvents.dll: no prior compilation found in cache
+ (0,0): [10-21-2018 06:38:59.683 PM] UnityEditor.StandardEvents.dll compiling...
+ (0,0): [10-21-2018 06:39:01.226 PM] UnityEditor.StandardEvents.dll: emitting IL to : F:\Katamari\Temp\UnityEditor.StandardEvents.dll
+ (0,0): [10-21-2018 06:39:01.227 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\Katamari\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10-21-2018 06:39:01.227 PM] Unity.TextMeshPro.dll: emitting IL to : F:\Katamari\Temp\Unity.TextMeshPro.dll
+ (0,0): [10-21-2018 06:39:01.289 PM] UnityEditor.StandardEvents.dll compilation finished in 1606ms  source files re-parsed: 1 metadata reloaded: 0
+ (0,0): [10-21-2018 06:39:01.289 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 1778ms  source files re-parsed: 44 metadata reloaded: 205
+ (0,0): [10-21-2018 06:39:01.346 PM] Unity.TextMeshPro.dll compilation finished in 1804ms  source files re-parsed: 45 metadata reloaded: 133
+ (0,0): [10-21-2018 06:39:01.676 PM] Unity.TextMeshPro.Editor.dll: no prior compilation found in cache
+ (0,0): [10-21-2018 06:39:01.687 PM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10-21-2018 06:39:01.892 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\Katamari\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10-21-2018 06:39:02.008 PM] Unity.TextMeshPro.Editor.dll compilation finished in 321ms  source files re-parsed: 39 metadata reloaded: 1
+ (0,0): [10-21-2018 06:40:01.370 PM] Unity.TextMeshPro.dll compiling...
+ (0,0): [10-21-2018 06:40:01.473 PM] Unity.PackageManagerUI.Editor.dll compiling...
+ (0,0): [10-21-2018 06:40:01.571 PM] UnityEditor.StandardEvents.dll compiling...
+ (0,0): [10-21-2018 06:40:01.616 PM] UnityEditor.StandardEvents.dll: emitting IL to : F:\Katamari\Temp\UnityEditor.StandardEvents.dll
+ (0,0): [10-21-2018 06:40:01.621 PM] Unity.PackageManagerUI.Editor.dll: emitting IL to : F:\Katamari\Temp\Unity.PackageManagerUI.Editor.dll
+ (0,0): [10-21-2018 06:40:01.644 PM] UnityEditor.StandardEvents.dll compilation finished in 73ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10-21-2018 06:40:01.655 PM] UnityEditor.StandardEvents.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10-21-2018 06:40:01.684 PM] Unity.PackageManagerUI.Editor.dll compilation finished in 211ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10-21-2018 06:40:01.695 PM] Unity.PackageManagerUI.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10-21-2018 06:40:01.704 PM] Unity.TextMeshPro.dll: emitting IL to : F:\Katamari\Temp\Unity.TextMeshPro.dll
+ (0,0): [10-21-2018 06:40:01.800 PM] Unity.TextMeshPro.dll compilation finished in 429ms  source files re-parsed: 0 metadata reloaded: 0
+ (0,0): [10-21-2018 06:40:01.811 PM] Unity.TextMeshPro.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10-21-2018 06:40:02.117 PM] Unity.TextMeshPro.Editor.dll compiling...
+ (0,0): [10-21-2018 06:40:02.246 PM] Unity.TextMeshPro.Editor.dll: emitting IL to : F:\Katamari\Temp\Unity.TextMeshPro.Editor.dll
+ (0,0): [10-21-2018 06:40:02.354 PM] Unity.TextMeshPro.Editor.dll compilation finished in 237ms  source files re-parsed: 0 metadata reloaded: 1
+ (0,0): [10-21-2018 06:40:02.365 PM] Unity.TextMeshPro.Editor.dll: compilation was cached, 0 file(s) were found to have changed.
+ (0,0): [10-21-2018 06:43:59.184 PM] Compiler cache size is now 14.60 MB
+ (0,0): watchdog triggered an exit
